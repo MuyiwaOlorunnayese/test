@@ -26,6 +26,7 @@ __i am me__
 
 ___
 
+
 ~babade~
 
 
@@ -58,6 +59,7 @@ ___
 
 
 ` <p>testing mode activated</p>`
+## Learning how to add image in mackdown
 
 ![ muyiwa logo](https://markdown-here.com/img/icon256.png "logo")
 
